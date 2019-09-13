@@ -1,3 +1,5 @@
+# INCOMPLETO
+
 # representação do mapa em Matriz de Adjacência
 # a entrada consiste em informar o tamanho do mapa e mostrar pontos que sejam adjacentes
 # o objetivo é informar a qtde mínima de cores usadas para colorir um mapa
