@@ -30,3 +30,4 @@ def CortePonto(L,vales=1,listagemVales=[]):
 	return max(listagemVales)
 
 CortePonto(L,listagemVales=1)
+#
