@@ -1,3 +1,5 @@
+# IMCOMPLETO
+
 # TotalCidades = de 2 a 100
 # TotalVoos = de (TotalCidades-1) a 10**5
 # Cidade1/Cidade2 = de 0 a (TotalCidades-1)
